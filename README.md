@@ -8,7 +8,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 #### 🌏 "Quanto mais eu sei, mais eu sou" 🧠
 
  - 📍From PB living in João Pessoa
- - 👨‍💻 Fullstack engineer at Acutis Tecnologia and IPM João Pessoa
+ - 👨‍💻 Mobile Developer at Interação Tecnologia and FullStack Engineer at IPM João Pessoa
  - 🖥 Technology Consulting
 
 <div>
